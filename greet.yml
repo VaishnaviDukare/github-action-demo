@@ -1,6 +1,6 @@
 name: Greet with Python
 
-on: push
+on: workflow_dispatch
 
 jobs:
   run-script:
